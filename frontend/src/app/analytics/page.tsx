@@ -21,8 +21,8 @@ export default function AnalyticsPage() {
   // Generate synthetic area chart data for momentum
   const momentumData = Array.from({length: 10}).map((_, i) => ({
     match: `M${i+1}`,
-    [probs?.[0]?.team || "Team A"]: 50 + i * 2 + (Math.random() * 10 - 5),
-    [probs?.[1]?.team || "Team B"]: 60 - i * 1.5 + (Math.random() * 10 - 5),
+    [((probs as unknown as any[]) || [])?.[0]?.team || "Team A"]: 50 + i * 2 + (Math.random() * 10 - 5),
+    [((probs as unknown as any[]) || [])?.[1]?.team || "Team B"]: 60 - i * 1.5 + (Math.random() * 10 - 5),
   }));
 
   return (
@@ -44,7 +44,7 @@ export default function AnalyticsPage() {
         </div>
         <div className="glass-card p-6 rounded-2xl">
           <p className="text-sm font-medium text-gray-400">Highest xG Team</p>
-          <p className="text-3xl font-bold text-white mt-2">{probs?.[0]?.team}</p>
+          <p className="text-3xl font-bold text-white mt-2">{((probs as unknown as any[]) || [])?.[0]?.team}</p>
           <p className="text-sm text-blue-400 mt-2">2.4 xG per match</p>
         </div>
         <div className="glass-card p-6 rounded-2xl">
@@ -75,8 +75,8 @@ export default function AnalyticsPage() {
               <YAxis stroke="#ffffff50" tick={{fill: '#ffffff50'}} />
               <CartesianGrid strokeDasharray="3 3" stroke="#ffffff10" />
               <Tooltip contentStyle={{ backgroundColor: '#151821', borderColor: '#333' }} />
-              <Area type="monotone" dataKey={probs?.[0]?.team || "Team A"} stroke="#8b5cf6" fillOpacity={1} fill="url(#colorTeamA)" />
-              <Area type="monotone" dataKey={probs?.[1]?.team || "Team B"} stroke="#3b82f6" fillOpacity={1} fill="url(#colorTeamB)" />
+              <Area type="monotone" dataKey={((probs as unknown as any[]) || [])?.[0]?.team || "Team A"} stroke="#8b5cf6" fillOpacity={1} fill="url(#colorTeamA)" />
+              <Area type="monotone" dataKey={((probs as unknown as any[]) || [])?.[1]?.team || "Team B"} stroke="#3b82f6" fillOpacity={1} fill="url(#colorTeamB)" />
             </AreaChart>
           </ResponsiveContainer>
         </div>
