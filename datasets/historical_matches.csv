@@ -1,0 +1,1001 @@
+date,home_team,away_team,home_score,away_score,home_xg,away_xg,home_elo,away_elo,tournament
+2017-09-25,England,Belgium,1,1,1.15,0.82,1558,1714,World Cup
+2023-02-21,England,Netherlands,2,3,2.15,2.92,1845,2096,Friendly
+2020-09-15,Italy,England,2,3,2.45,2.51,1761,1769,Friendly
+2016-08-09,England,Brazil,0,0,1.15,0.88,1971,1639,Friendly
+2024-11-25,Netherlands,Argentina,3,1,3.29,2.4,1830,1612,Friendly
+2025-01-24,Germany,Argentina,1,1,1.29,2.11,2003,1933,Friendly
+2022-06-12,Brazil,Netherlands,1,1,1.64,1.95,2060,2019,Friendly
+2025-05-27,Belgium,Germany,3,2,3.19,2.21,1594,1892,Friendly
+2024-12-17,Spain,Germany,2,1,1.28,1.1,2070,1535,Friendly
+2016-10-23,Spain,England,1,1,1.5,2.04,2056,1594,Friendly
+2022-02-21,Portugal,Italy,2,3,2.72,3.13,1765,1949,Friendly
+2026-02-16,Germany,France,3,2,3.14,3.02,1927,1906,Friendly
+2022-11-15,France,Netherlands,1,0,0.99,0.91,1970,1874,Friendly
+2019-01-12,France,Germany,1,1,2.3,1.0,1714,1734,Friendly
+2016-09-03,Germany,Netherlands,1,3,1.73,3.09,1978,1782,Friendly
+2025-10-25,Netherlands,Germany,2,3,1.87,2.63,1893,1745,Friendly
+2022-04-03,Belgium,England,1,2,0.73,2.05,1872,1727,Friendly
+2022-02-27,Spain,Brazil,0,2,0.57,2.74,1912,1723,Friendly
+2018-11-11,Portugal,France,2,1,3.32,1.25,1703,1871,Friendly
+2018-06-22,Belgium,Germany,0,3,1.92,3.49,1926,2004,Friendly
+2017-03-01,Brazil,Italy,2,2,3.03,2.07,1534,1668,Friendly
+2025-05-09,Brazil,Italy,3,0,2.96,0.64,1733,1979,Friendly
+2016-12-26,England,Italy,2,3,1.72,3.31,1509,1561,Friendly
+2017-10-14,France,Portugal,0,1,0.85,1.11,1898,1584,Friendly
+2021-04-10,Brazil,England,2,1,1.97,1.86,1727,1608,Friendly
+2022-06-28,England,Italy,1,0,1.06,1.21,1839,1646,Friendly
+2021-10-12,Argentina,Italy,1,1,1.17,1.69,1556,1980,Friendly
+2022-06-15,England,Belgium,2,1,2.62,1.27,1983,2014,Friendly
+2022-03-16,Italy,Germany,2,2,2.6,2.55,1532,2032,World Cup
+2021-12-09,Brazil,Italy,1,2,0.88,2.06,1915,2090,Friendly
+2023-01-11,Germany,Portugal,1,3,1.74,2.97,1932,1777,Friendly
+2019-12-17,Netherlands,England,1,1,1.12,1.64,1756,1761,Friendly
+2025-03-20,Netherlands,Germany,3,2,3.2,3.07,1741,1671,Friendly
+2019-08-10,Argentina,Portugal,2,2,2.62,2.67,2036,1809,Friendly
+2024-07-24,Portugal,Italy,0,2,0.8,3.05,1503,1643,Friendly
+2018-09-10,Spain,Brazil,2,1,2.13,1.75,1645,1660,Friendly
+2019-01-31,Belgium,Germany,3,2,3.3,2.32,1736,2012,World Cup
+2021-05-28,Brazil,Spain,0,1,0.96,1.22,1772,1836,Friendly
+2017-06-26,Italy,Belgium,2,2,2.14,2.3,2052,1986,Friendly
+2022-02-09,Brazil,Spain,1,0,1.77,1.26,1858,2076,Friendly
+2025-03-13,Spain,Netherlands,3,2,3.43,1.93,1741,1573,Friendly
+2020-03-27,Belgium,Argentina,1,3,2.64,3.17,1992,2006,Friendly
+2020-08-25,Belgium,Spain,0,2,1.07,2.07,1862,1817,Friendly
+2018-10-23,Brazil,Portugal,1,2,1.73,3.44,1704,1730,Friendly
+2025-05-18,Argentina,Portugal,1,1,1.18,1.79,1967,1910,Friendly
+2022-10-01,Portugal,Argentina,1,3,1.46,2.83,1945,2020,World Cup
+2018-02-15,Italy,Spain,3,3,2.03,2.73,2014,2075,Friendly
+2019-06-10,Germany,Portugal,2,4,2.01,2.78,1544,1674,Friendly
+2016-10-13,Brazil,Spain,2,1,1.99,2.19,1810,1720,Friendly
+2022-12-17,Brazil,Netherlands,0,0,1.17,1.51,1984,2087,Friendly
+2023-03-12,Portugal,Spain,2,0,1.67,0.56,1635,1827,Friendly
+2019-06-04,Argentina,France,1,2,1.99,1.87,1634,1569,Friendly
+2026-06-04,Brazil,Belgium,0,1,1.14,0.74,1885,2080,Friendly
+2018-10-21,France,Netherlands,0,1,0.69,2.43,1772,1724,Friendly
+2020-08-24,Argentina,Netherlands,2,1,2.52,0.85,1558,1524,Friendly
+2025-05-31,France,England,0,1,0.79,0.95,1721,1665,Friendly
+2022-05-03,France,England,0,2,0.74,1.82,1548,1760,Friendly
+2025-08-02,Brazil,Portugal,1,2,1.84,3.24,1869,1855,Friendly
+2022-09-04,England,Germany,3,0,3.17,0.68,1842,1849,Friendly
+2023-08-15,Germany,Portugal,2,1,2.53,1.01,1541,2072,Friendly
+2017-10-25,Portugal,Argentina,3,1,2.95,2.43,1683,1807,Friendly
+2019-08-08,Germany,Netherlands,0,3,0.94,2.63,1841,2080,Friendly
+2019-06-12,Brazil,Argentina,0,3,0.56,3.05,1836,2093,Friendly
+2023-01-16,Italy,Spain,2,4,1.92,3.41,1979,1587,Friendly
+2019-04-05,Germany,Italy,2,1,2.56,1.73,1956,1988,Friendly
+2016-11-29,Argentina,France,0,0,0.69,1.4,1655,1628,World Cup
+2016-12-28,England,Portugal,2,2,3.2,1.54,1805,1586,World Cup
+2023-07-01,France,Brazil,1,3,0.92,3.04,1994,1912,Friendly
+2021-08-11,Portugal,Spain,2,1,2.49,1.43,2027,1660,Friendly
+2018-01-01,Brazil,England,2,2,2.16,3.01,1503,1640,Friendly
+2017-04-10,Portugal,Brazil,2,2,2.95,2.57,1926,1949,Friendly
+2025-03-25,Belgium,Brazil,2,1,1.74,1.33,1546,1897,Friendly
+2017-09-20,Argentina,Portugal,1,1,1.09,2.38,2026,1706,Friendly
+2025-07-16,Germany,Brazil,1,1,1.94,0.89,1799,2066,Friendly
+2024-04-19,Italy,Argentina,1,2,1.13,2.78,1833,1916,Friendly
+2018-01-30,France,Belgium,1,2,1.53,2.61,1898,2028,Friendly
+2017-07-02,Argentina,Brazil,3,0,3.13,1.34,1576,1781,World Cup
+2016-11-05,England,Brazil,1,0,0.74,0.56,1630,2014,Friendly
+2018-04-17,Italy,France,1,0,1.56,0.98,1875,1885,Friendly
+2023-06-20,Germany,Italy,3,3,2.92,2.56,1913,1622,World Cup
+2020-01-31,Germany,England,0,0,1.48,1.02,1932,1766,Friendly
+2025-03-24,Portugal,Belgium,2,0,2.5,0.78,1970,2019,Friendly
+2022-11-22,Brazil,Netherlands,1,1,0.86,2.43,1553,1746,Friendly
+2023-08-16,Belgium,Netherlands,0,2,0.7,2.81,1562,1611,Friendly
+2026-07-02,France,Argentina,1,1,1.11,1.46,1748,1651,Friendly
+2021-07-13,Italy,England,1,1,1.6,1.04,1607,2028,Friendly
+2023-07-03,Germany,Portugal,0,2,0.58,2.1,1519,1595,Friendly
+2023-05-11,Spain,Belgium,2,1,2.45,2.0,1994,1518,Friendly
+2025-12-25,Germany,Spain,2,2,1.49,2.09,1816,1923,World Cup
+2023-06-29,Spain,England,3,1,2.88,1.33,1799,1529,Friendly
+2019-10-04,France,Portugal,1,1,1.87,1.72,1759,1634,World Cup
+2022-11-20,Germany,Brazil,0,1,1.25,1.93,1806,1746,Friendly
+2017-03-29,Italy,Spain,1,3,1.33,3.35,1560,2085,Friendly
+2022-01-29,Netherlands,Italy,1,2,0.66,2.28,1970,1747,Friendly
+2018-02-12,Italy,Brazil,2,3,2.78,3.14,1967,1803,Friendly
+2021-04-13,Brazil,Argentina,2,2,1.92,1.33,1687,1537,Friendly
+2019-08-12,Brazil,Netherlands,3,3,3.19,2.46,1855,1714,Friendly
+2020-08-22,Argentina,France,1,0,2.18,0.52,2006,1830,Friendly
+2020-03-02,Belgium,Argentina,3,0,3.05,1.48,1793,1951,Friendly
+2021-06-14,England,Italy,0,2,0.7,2.86,1681,2037,Friendly
+2020-08-31,France,England,2,2,2.71,2.95,1560,1858,Friendly
+2020-07-31,Spain,Italy,1,1,0.95,1.34,1773,2041,Friendly
+2016-11-08,Argentina,Italy,3,0,3.38,0.74,1685,1992,Friendly
+2016-09-05,England,Portugal,2,0,3.31,0.85,2051,1844,Friendly
+2020-08-17,Italy,Spain,1,0,1.04,1.0,1776,2075,Friendly
+2023-04-02,Belgium,England,0,2,0.54,2.91,1538,1633,Friendly
+2018-11-01,Brazil,Argentina,2,1,2.29,1.42,1825,1941,Friendly
+2022-08-06,Spain,England,3,2,3.39,3.04,2002,2095,Friendly
+2026-01-03,Portugal,Argentina,1,3,1.81,3.39,2052,1555,Friendly
+2025-03-20,Netherlands,Brazil,2,1,1.78,1.62,1938,1961,Friendly
+2021-04-27,Argentina,Germany,1,2,1.21,2.62,1713,2066,Friendly
+2020-06-23,Belgium,Spain,1,1,1.36,1.36,1614,1663,Friendly
+2024-01-10,France,Brazil,2,1,2.57,0.56,2071,2024,Friendly
+2022-04-03,France,Italy,1,1,1.32,1.13,1850,1645,Friendly
+2022-08-02,Brazil,Portugal,4,1,3.42,1.46,1796,1985,Friendly
+2019-02-12,Brazil,Portugal,0,1,0.89,1.39,1619,1658,Friendly
+2026-06-17,Brazil,Argentina,3,1,3.14,2.17,1673,1611,Friendly
+2021-04-24,Portugal,Netherlands,0,2,1.19,2.12,1644,2091,Friendly
+2017-09-24,Netherlands,Belgium,3,0,3.02,0.62,1712,1906,Friendly
+2020-03-01,Italy,Brazil,1,3,2.02,2.75,2095,1931,World Cup
+2023-03-30,Portugal,Netherlands,0,2,0.54,2.56,1586,1908,Friendly
+2023-11-08,Belgium,Germany,1,0,1.12,0.64,1628,1832,Friendly
+2023-05-30,Belgium,England,3,3,3.25,3.32,1719,1625,Friendly
+2024-10-29,France,Argentina,2,2,2.41,2.02,1902,1741,Friendly
+2018-01-11,Argentina,England,1,1,1.16,1.71,1967,1954,Friendly
+2017-12-04,Germany,Netherlands,2,0,2.6,0.77,2023,1955,Friendly
+2020-07-22,Portugal,Italy,1,4,0.94,3.42,1543,2019,Friendly
+2021-04-04,France,Germany,2,2,3.45,2.85,1568,1991,Friendly
+2022-08-10,Netherlands,Portugal,0,2,1.04,2.82,2058,1914,Friendly
+2020-09-15,Brazil,Belgium,1,2,1.5,3.4,1641,1559,Friendly
+2025-10-07,Argentina,Italy,3,3,2.92,2.98,1525,2003,Friendly
+2026-06-08,Belgium,Argentina,2,0,1.69,0.85,2062,2056,Friendly
+2023-07-31,France,Portugal,1,1,2.99,0.8,1704,1864,Friendly
+2021-10-24,Germany,Belgium,2,3,2.99,3.44,1865,1621,Friendly
+2021-07-17,England,Argentina,0,1,1.25,1.45,1563,1788,World Cup
+2020-03-21,Italy,Portugal,3,3,2.8,2.96,1651,1597,Friendly
+2020-04-27,Spain,Germany,3,2,2.84,1.97,2061,1856,Friendly
+2022-07-31,Belgium,Spain,1,2,1.77,2.75,1856,1869,Friendly
+2024-05-27,Brazil,Germany,0,0,0.63,0.72,1904,1839,Friendly
+2016-12-06,France,Spain,3,1,3.06,2.27,2060,1529,Friendly
+2022-04-10,Spain,Brazil,0,1,0.92,1.05,1984,1898,World Cup
+2022-01-19,Germany,Netherlands,3,1,3.33,0.95,1572,1582,Friendly
+2023-10-08,Germany,Italy,0,1,0.52,1.28,1718,1755,Friendly
+2025-08-10,Spain,France,1,3,1.84,2.31,1513,1741,Friendly
+2025-11-23,Germany,Netherlands,1,1,1.27,2.5,1872,1677,Friendly
+2019-04-16,Spain,Germany,0,2,0.63,3.42,1577,1606,Friendly
+2017-03-26,England,Brazil,1,1,2.16,1.39,1612,1769,Friendly
+2025-12-10,Brazil,Belgium,1,1,1.62,1.07,2098,1770,Friendly
+2016-08-10,Germany,Portugal,1,1,1.26,1.6,1750,1740,Friendly
+2026-07-08,Spain,Brazil,2,2,3.16,2.68,1616,1580,Friendly
+2019-01-05,Italy,Brazil,2,1,2.15,0.79,1517,1820,Friendly
+2026-03-08,Portugal,Netherlands,2,2,2.37,1.21,1647,1721,Friendly
+2016-09-19,Netherlands,Italy,2,0,2.95,0.57,1556,1560,World Cup
+2022-03-13,Portugal,England,3,0,3.46,0.8,1980,2085,Friendly
+2018-01-11,Portugal,England,0,1,1.41,1.69,2018,1553,Friendly
+2018-08-08,Brazil,Argentina,2,1,2.71,0.94,1852,1933,Friendly
+2020-01-01,Argentina,Italy,1,1,1.65,2.15,1500,1653,Friendly
+2023-08-02,Belgium,Italy,0,0,0.75,1.0,1696,1943,Friendly
+2018-10-25,England,France,3,0,3.3,0.76,1905,2063,Friendly
+2017-10-14,Spain,Brazil,3,0,3.3,0.69,1582,1718,Friendly
+2021-04-17,Italy,England,2,0,1.86,1.09,1755,1897,World Cup
+2018-05-26,Spain,France,3,2,2.71,3.09,1665,1962,Friendly
+2024-07-06,France,Brazil,3,3,3.31,2.6,1770,1650,Friendly
+2016-09-17,Netherlands,Brazil,2,1,1.92,1.98,1772,1894,Friendly
+2020-09-06,Italy,Brazil,0,1,1.04,1.59,1576,2051,Friendly
+2019-02-27,Germany,Spain,3,3,3.14,2.29,1844,1712,Friendly
+2024-06-29,Brazil,Germany,2,0,2.22,1.15,1998,1514,World Cup
+2021-12-07,Spain,Netherlands,2,3,2.05,3.33,1601,1523,Friendly
+2021-08-27,Brazil,France,1,3,2.42,3.2,1708,1576,Friendly
+2021-10-22,England,Brazil,1,1,2.18,0.52,1828,1771,Friendly
+2024-01-15,Italy,Spain,3,2,2.23,2.55,1741,1572,Friendly
+2017-09-10,France,Netherlands,0,0,0.81,0.77,1687,2006,Friendly
+2025-09-27,England,Belgium,1,1,1.35,1.79,2092,1735,Friendly
+2023-01-17,Brazil,England,2,3,3.28,3.03,1713,1772,Friendly
+2016-12-30,England,Belgium,1,1,0.82,1.38,2093,1542,Friendly
+2019-11-21,Portugal,Germany,1,1,1.88,2.56,1843,2088,Friendly
+2020-01-07,Brazil,England,4,3,3.43,2.7,1744,1976,Friendly
+2023-07-06,Brazil,Belgium,1,1,2.38,0.99,1671,1526,Friendly
+2025-06-28,Italy,France,2,3,2.42,3.11,1649,1551,Friendly
+2018-10-17,Netherlands,England,2,1,2.13,1.91,1580,1912,Friendly
+2019-01-13,France,Spain,2,0,1.92,0.53,1675,1560,Friendly
+2019-10-18,Belgium,Germany,0,1,1.22,2.07,2009,1838,Friendly
+2022-01-21,Brazil,Spain,2,1,3.04,0.52,1698,1812,Friendly
+2022-03-30,Italy,Belgium,0,1,0.98,1.81,1823,1516,Friendly
+2018-12-25,England,Germany,3,2,3.29,2.9,2053,1603,World Cup
+2019-04-20,Germany,England,1,3,1.03,3.15,2042,1755,Friendly
+2021-07-08,England,Belgium,1,2,1.43,3.02,1539,1577,Friendly
+2026-02-26,Argentina,France,0,0,0.76,1.88,1788,1755,Friendly
+2025-03-31,Netherlands,Belgium,2,0,2.34,0.73,1881,1740,World Cup
+2022-02-28,Belgium,Brazil,0,2,1.75,3.0,1509,2025,Friendly
+2018-08-15,England,Italy,3,1,3.17,1.38,1521,2099,Friendly
+2016-12-09,Germany,Netherlands,0,2,0.95,3.03,1559,1905,Friendly
+2020-03-20,Brazil,Belgium,3,2,3.14,2.73,1762,2056,Friendly
+2026-06-15,Brazil,Germany,1,2,1.81,1.84,1824,1844,Friendly
+2019-04-05,Belgium,France,3,0,2.76,0.63,1934,1576,Friendly
+2019-07-10,Germany,France,0,2,0.69,2.18,1604,1566,Friendly
+2021-11-07,England,Brazil,1,2,1.77,2.58,1996,1513,Friendly
+2017-03-12,Belgium,France,2,1,2.2,1.58,1904,1774,Friendly
+2017-09-08,Netherlands,Argentina,3,1,3.24,1.37,1598,2035,Friendly
+2017-02-20,England,Belgium,2,1,2.38,1.29,1506,1730,Friendly
+2023-07-05,England,France,0,1,0.58,1.58,1546,1744,Friendly
+2018-03-23,Argentina,Brazil,1,2,0.99,2.45,1813,1928,Friendly
+2021-07-08,France,Argentina,2,2,2.65,3.07,1726,1794,Friendly
+2021-03-07,Argentina,France,3,1,2.94,1.64,1676,1800,Friendly
+2022-02-17,Portugal,Germany,4,1,3.05,1.77,1821,2071,Friendly
+2026-07-02,Spain,Germany,2,2,2.14,2.18,1755,2083,Friendly
+2019-09-14,Portugal,Spain,0,2,1.0,1.38,1624,2070,Friendly
+2022-06-22,Spain,Netherlands,2,3,2.11,3.45,1616,1577,Friendly
+2023-09-08,Netherlands,Italy,2,0,2.92,0.87,1574,1821,Friendly
+2019-12-17,Italy,Spain,1,1,1.36,2.08,1607,1513,Friendly
+2021-03-28,Portugal,Spain,1,1,2.88,1.53,1626,1695,Friendly
+2016-11-30,France,Spain,2,1,2.55,1.4,2012,1635,Friendly
+2024-02-15,Netherlands,Argentina,2,3,2.79,2.76,2029,1961,World Cup
+2019-09-19,Belgium,Brazil,0,1,0.83,1.08,1572,1535,Friendly
+2023-11-23,Germany,England,1,0,1.66,0.89,1946,1968,Friendly
+2019-08-20,France,Netherlands,3,0,3.16,1.71,1800,1715,World Cup
+2019-01-18,Argentina,Portugal,1,2,1.07,2.56,1593,1718,Friendly
+2019-04-11,France,England,1,0,1.59,1.21,1550,1602,Friendly
+2018-01-03,Germany,Belgium,2,2,1.86,2.37,1663,1961,Friendly
+2019-12-02,France,Portugal,2,2,1.87,3.02,2024,1963,Friendly
+2024-08-29,Germany,Portugal,2,3,2.17,2.54,1997,2074,Friendly
+2024-04-30,Italy,England,1,2,1.48,2.63,1693,1924,Friendly
+2024-09-22,England,Netherlands,2,2,3.1,2.38,1521,1706,Friendly
+2025-07-30,Italy,Brazil,0,2,0.58,2.39,1549,1862,Friendly
+2018-08-18,Belgium,England,3,3,3.06,2.5,1898,2050,Friendly
+2022-01-29,Netherlands,England,3,2,3.14,2.9,1637,1777,Friendly
+2022-04-27,France,Spain,3,1,3.25,1.93,1638,2003,World Cup
+2025-09-28,Spain,Portugal,2,2,3.24,2.68,1852,1877,Friendly
+2019-12-14,Belgium,Germany,0,1,1.08,3.29,1982,2029,Friendly
+2021-01-15,Portugal,Germany,4,1,3.44,2.18,1867,1986,Friendly
+2018-05-07,Portugal,Belgium,1,2,1.74,2.26,1816,1541,Friendly
+2024-11-17,England,France,1,1,2.34,1.63,1684,1859,Friendly
+2020-02-13,Italy,Brazil,2,0,2.94,0.8,1756,1574,Friendly
+2023-05-16,Germany,Portugal,3,0,2.83,1.17,1824,1858,Friendly
+2017-09-25,Netherlands,Belgium,2,2,2.16,3.4,1518,1722,Friendly
+2016-09-07,Netherlands,Spain,3,0,2.69,0.71,1937,1710,Friendly
+2018-07-09,Netherlands,Portugal,2,2,2.88,1.8,1944,1838,Friendly
+2023-10-05,Spain,Portugal,3,1,2.85,1.3,1843,1542,World Cup
+2016-10-12,France,Germany,2,3,2.89,2.18,1526,1926,Friendly
+2025-05-14,Portugal,England,1,3,0.74,2.99,2041,1963,Friendly
+2021-09-26,Belgium,Brazil,3,1,3.27,2.08,1694,1975,Friendly
+2017-05-18,Spain,Argentina,0,1,0.75,1.06,1650,1699,Friendly
+2025-10-18,France,Argentina,2,1,2.39,1.33,1682,1882,Friendly
+2019-08-11,Portugal,Argentina,1,0,1.6,0.7,1840,1584,Friendly
+2022-12-06,Belgium,England,1,0,0.87,0.8,2062,1762,Friendly
+2025-02-02,England,Portugal,2,1,2.98,2.82,1841,1612,Friendly
+2018-12-20,France,Netherlands,1,1,0.92,0.77,2001,1933,Friendly
+2019-06-19,England,Italy,1,2,1.68,1.38,1680,1874,Friendly
+2021-06-21,Spain,Netherlands,1,1,1.58,2.79,1629,1624,Friendly
+2021-07-14,France,Italy,0,2,1.53,2.75,1956,1656,World Cup
+2026-01-11,England,Brazil,2,2,2.05,3.22,1987,2015,Friendly
+2016-08-27,Germany,England,0,2,0.71,2.47,1935,2035,Friendly
+2024-11-17,Netherlands,Italy,0,1,0.62,1.31,1926,1687,Friendly
+2017-10-26,Germany,France,2,1,1.29,1.31,1807,1745,World Cup
+2022-12-06,Argentina,Netherlands,0,3,1.68,2.73,1566,1754,Friendly
+2017-07-06,Netherlands,Belgium,1,0,0.66,0.92,1727,1765,World Cup
+2019-02-20,Germany,Brazil,2,0,2.64,0.57,1656,1939,Friendly
+2025-12-02,France,Spain,1,1,1.3,2.33,1611,2058,Friendly
+2021-05-30,Belgium,Italy,1,2,1.47,2.74,1868,1605,Friendly
+2019-08-07,Belgium,Germany,2,2,3.06,2.64,1829,1585,World Cup
+2018-06-04,Spain,Netherlands,0,3,0.72,3.33,1795,1918,Friendly
+2017-07-20,Spain,Portugal,2,3,2.03,3.4,1869,1588,Friendly
+2026-05-04,France,Italy,0,2,0.74,2.34,1891,1787,Friendly
+2017-02-16,Portugal,Brazil,1,2,1.87,1.9,2088,1964,World Cup
+2026-02-27,Brazil,Belgium,1,2,1.3,2.86,1979,1509,Friendly
+2019-09-14,Argentina,Brazil,1,1,1.62,1.38,1955,1922,Friendly
+2018-11-16,Netherlands,Argentina,1,3,0.71,3.01,1932,1614,Friendly
+2018-10-17,Brazil,Spain,2,2,2.59,1.51,1792,1700,Friendly
+2020-01-11,France,Spain,2,1,3.36,2.17,1511,1534,Friendly
+2024-07-21,Argentina,England,0,0,1.12,0.95,1956,2044,Friendly
+2020-07-04,Spain,Portugal,1,2,1.57,2.02,1901,1527,Friendly
+2023-02-18,Netherlands,Portugal,0,0,1.05,0.82,1693,1750,Friendly
+2017-10-04,Brazil,Belgium,2,0,2.32,1.06,1569,1794,Friendly
+2017-10-10,Netherlands,Germany,2,1,2.16,1.37,1663,1678,Friendly
+2022-05-21,Argentina,Brazil,0,3,0.94,3.39,1600,1952,Friendly
+2023-04-21,Spain,Netherlands,2,1,2.51,2.72,1714,1754,World Cup
+2024-01-12,Italy,Germany,2,2,1.8,2.85,1687,1888,Friendly
+2019-11-28,Germany,England,1,1,1.09,0.51,1791,2072,Friendly
+2020-04-24,Netherlands,France,2,2,2.64,2.15,1695,2079,World Cup
+2021-04-10,Spain,Italy,2,0,2.66,1.4,1633,1912,Friendly
+2022-03-31,Belgium,Argentina,0,2,0.75,1.97,2016,1773,Friendly
+2025-01-07,France,Italy,2,2,1.81,2.84,1938,1860,Friendly
+2025-09-14,Argentina,Italy,1,2,0.97,2.6,1729,1921,Friendly
+2022-12-01,Belgium,England,0,0,1.24,1.02,1677,1994,Friendly
+2021-01-22,Portugal,Spain,2,1,2.63,1.33,2062,1902,Friendly
+2024-10-02,Belgium,Argentina,3,0,2.94,1.13,2057,1780,Friendly
+2026-06-17,France,England,2,1,3.08,1.28,1730,1662,World Cup
+2021-04-20,Portugal,Italy,3,2,3.24,1.89,2039,1648,Friendly
+2018-07-17,Netherlands,Argentina,2,1,0.79,2.12,1637,1768,Friendly
+2020-08-19,England,Brazil,1,2,2.33,2.25,1908,1820,Friendly
+2024-10-27,Belgium,Brazil,3,1,2.89,1.18,1757,1890,Friendly
+2021-10-21,Belgium,Portugal,1,2,1.53,2.11,1778,1821,Friendly
+2026-05-03,Italy,England,3,2,3.17,2.13,1875,1538,Friendly
+2024-11-02,Italy,Argentina,1,2,1.22,1.76,1833,2037,World Cup
+2022-11-19,Germany,France,0,2,0.51,2.24,1674,1688,Friendly
+2021-11-09,England,Netherlands,2,2,3.35,1.44,1938,1788,Friendly
+2024-06-05,Argentina,Germany,1,0,1.41,1.04,1877,1864,Friendly
+2021-04-28,France,Portugal,0,0,1.17,0.51,1820,1573,Friendly
+2016-10-28,Portugal,Brazil,1,1,2.12,1.01,1532,1773,Friendly
+2025-03-26,Spain,Italy,0,2,0.88,2.68,2016,1670,Friendly
+2025-10-05,England,Portugal,0,1,0.85,0.66,1687,1947,Friendly
+2024-11-08,Argentina,Portugal,1,0,0.86,0.73,1930,1839,Friendly
+2025-02-23,Italy,Spain,2,3,1.93,3.18,2037,1630,Friendly
+2022-02-02,Belgium,Germany,2,1,2.32,1.77,2043,1735,Friendly
+2016-10-18,Netherlands,Portugal,1,0,1.25,1.65,1579,2024,Friendly
+2024-02-10,Italy,Germany,1,2,1.62,2.56,1830,1907,Friendly
+2019-02-12,France,Germany,2,1,2.81,2.16,1735,1545,Friendly
+2022-02-07,Belgium,Spain,1,1,2.44,1.55,1711,1582,Friendly
+2018-11-16,Spain,Portugal,3,2,3.15,3.23,2030,1693,Friendly
+2024-12-13,Brazil,Spain,1,0,1.15,0.7,1795,1765,Friendly
+2018-05-12,Argentina,Portugal,2,1,1.33,1.36,1920,1786,Friendly
+2024-05-16,Belgium,France,1,2,2.0,2.41,1869,1879,Friendly
+2025-06-01,Belgium,Netherlands,1,2,0.9,2.24,1991,2048,Friendly
+2026-02-16,Spain,Italy,1,3,2.13,3.47,1749,1995,Friendly
+2017-08-09,Argentina,Spain,2,1,2.6,1.45,1820,1850,Friendly
+2019-05-27,France,Italy,2,2,2.34,2.95,1921,2057,Friendly
+2024-04-20,Belgium,France,2,3,3.01,3.01,1574,1722,Friendly
+2017-05-24,Italy,Netherlands,2,2,2.56,1.97,1602,1797,Friendly
+2018-10-16,France,Spain,2,3,3.38,3.09,1775,1554,World Cup
+2021-10-25,Italy,Brazil,0,0,0.54,0.72,1612,1614,Friendly
+2017-06-04,Argentina,Belgium,3,0,2.83,0.94,1555,1756,Friendly
+2021-03-25,England,Brazil,0,0,0.53,1.18,1717,1638,World Cup
+2018-08-03,Portugal,Italy,3,2,3.31,2.6,2035,1978,Friendly
+2017-06-17,Spain,Belgium,1,3,1.29,2.46,1510,1601,Friendly
+2018-05-11,Germany,France,2,2,2.9,1.97,1981,1594,Friendly
+2018-09-19,Portugal,England,0,1,0.94,1.73,1846,2014,Friendly
+2017-07-11,Germany,Portugal,2,0,2.74,1.01,1924,1657,Friendly
+2024-03-22,France,Portugal,1,0,1.74,0.73,1552,1850,Friendly
+2021-07-09,Portugal,Argentina,1,2,1.26,2.59,2007,1708,Friendly
+2021-04-27,Germany,Belgium,0,0,0.8,1.41,2055,1996,Friendly
+2017-04-07,Argentina,Italy,3,1,2.59,2.95,1694,1669,Friendly
+2016-08-06,Brazil,Spain,2,1,1.89,1.97,1517,2061,Friendly
+2025-08-25,Portugal,Argentina,2,3,2.11,3.15,1688,1863,Friendly
+2017-06-10,Brazil,Portugal,1,2,0.57,3.49,2089,2043,Friendly
+2025-05-06,Germany,Portugal,2,0,2.72,0.81,2072,1801,Friendly
+2018-09-05,Portugal,Germany,1,1,2.53,1.83,1648,1588,World Cup
+2017-02-22,England,Italy,3,2,3.06,1.95,1966,1821,Friendly
+2019-06-23,Spain,Germany,3,1,3.08,1.66,2028,1751,Friendly
+2019-06-13,France,England,2,3,2.63,3.13,1904,1792,Friendly
+2022-07-02,England,Argentina,0,2,0.8,1.7,1569,1811,Friendly
+2016-11-24,Germany,England,3,1,3.11,1.97,1666,1614,Friendly
+2024-02-08,Italy,Argentina,1,2,2.76,2.94,1981,1968,Friendly
+2021-07-16,Brazil,Argentina,2,2,2.4,2.21,1543,1828,Friendly
+2017-03-06,England,Portugal,0,2,0.74,2.65,1940,1910,Friendly
+2021-04-13,Germany,Brazil,0,1,0.94,1.32,1542,2037,Friendly
+2019-11-01,Belgium,France,0,0,0.91,1.43,1943,1798,Friendly
+2026-01-01,Netherlands,Italy,0,0,0.53,1.28,1576,1687,Friendly
+2017-08-07,Germany,Belgium,1,1,1.73,1.29,1887,1902,Friendly
+2024-04-30,Italy,Germany,3,2,3.18,3.04,1927,1857,Friendly
+2021-11-04,Portugal,Netherlands,2,2,3.28,2.42,1831,1838,Friendly
+2024-06-26,Spain,Netherlands,2,2,1.77,2.89,1894,2080,World Cup
+2018-05-25,Netherlands,Spain,0,0,0.57,0.83,1787,1652,Friendly
+2017-07-09,Portugal,Argentina,3,1,3.5,1.51,1631,1910,Friendly
+2022-05-02,Portugal,Netherlands,2,0,2.82,0.72,1636,2045,Friendly
+2019-08-25,Germany,Brazil,2,1,1.83,2.07,2082,1736,Friendly
+2017-02-03,England,Brazil,3,0,2.94,1.06,1784,1832,Friendly
+2025-03-26,Germany,Netherlands,1,2,0.54,1.49,1984,1998,Friendly
+2023-06-21,Spain,England,1,2,1.7,1.84,1702,1505,Friendly
+2020-08-21,Germany,Spain,3,2,2.98,3.23,1961,1512,Friendly
+2021-09-20,Netherlands,Spain,1,1,2.77,1.63,2031,1975,Friendly
+2021-09-30,Spain,Argentina,4,2,3.13,2.24,1805,1855,Friendly
+2021-10-26,Brazil,Belgium,0,2,0.85,2.26,1764,1712,World Cup
+2018-05-06,France,Portugal,2,2,2.34,2.69,1779,1697,World Cup
+2018-03-04,Germany,Brazil,0,0,1.52,0.54,1955,1882,Friendly
+2021-09-07,Portugal,Netherlands,0,1,1.21,0.52,1575,1878,Friendly
+2021-07-14,Argentina,Italy,2,0,3.13,0.65,1622,1682,Friendly
+2025-12-22,Spain,France,1,0,1.2,0.6,2024,1628,World Cup
+2019-05-22,Portugal,Germany,2,0,2.61,1.43,1601,1654,Friendly
+2018-05-16,Argentina,Belgium,2,2,2.62,2.54,1792,1601,Friendly
+2022-03-29,Argentina,Italy,1,2,1.08,1.35,1716,1908,Friendly
+2022-03-25,Germany,Italy,3,2,2.82,2.26,1624,1659,Friendly
+2024-06-20,France,Germany,1,1,1.62,1.3,2055,1993,Friendly
+2016-08-16,Italy,Portugal,3,2,3.27,1.9,1557,1566,Friendly
+2017-09-17,Germany,England,1,1,1.77,1.32,1638,1852,Friendly
+2022-04-04,Portugal,Spain,2,2,3.25,3.02,2088,1717,Friendly
+2026-06-02,Germany,Spain,3,1,3.43,1.13,1580,1816,Friendly
+2019-07-02,Brazil,Italy,2,2,3.23,2.1,1605,1591,Friendly
+2018-10-26,Argentina,Brazil,1,0,1.37,0.69,1882,2099,Friendly
+2026-05-19,Germany,Italy,2,2,2.36,1.84,1967,1998,Friendly
+2025-06-05,Argentina,Netherlands,2,3,3.02,3.42,1590,1768,Friendly
+2022-10-26,England,Italy,2,0,2.42,1.12,1597,1556,World Cup
+2023-09-29,Netherlands,Portugal,0,1,0.91,1.5,1805,1770,Friendly
+2022-02-21,Brazil,Argentina,3,0,3.47,0.94,1801,1551,Friendly
+2025-09-30,Brazil,Italy,3,1,2.99,1.99,1661,2056,Friendly
+2016-12-24,Brazil,Argentina,1,1,1.85,1.39,1559,1949,Friendly
+2016-08-16,Italy,Germany,1,2,1.29,2.71,1754,1591,Friendly
+2019-11-01,Brazil,England,2,3,2.69,3.15,1869,1788,Friendly
+2020-04-28,Germany,Argentina,2,2,2.47,1.94,2019,1773,Friendly
+2024-08-15,Italy,Portugal,0,2,1.19,1.91,1547,1692,Friendly
+2017-03-28,Belgium,Argentina,1,1,1.11,2.01,2090,2068,Friendly
+2017-01-22,France,Argentina,1,0,1.46,1.16,1809,1764,World Cup
+2025-08-06,Argentina,Netherlands,3,2,2.35,1.75,1510,1880,Friendly
+2018-12-08,France,Italy,2,2,2.33,1.38,1807,2017,Friendly
+2016-08-17,France,Portugal,4,2,3.36,3.07,1920,1783,Friendly
+2017-07-18,Spain,France,1,1,0.98,0.97,2081,1833,Friendly
+2020-05-14,Spain,Portugal,2,1,2.17,1.69,1502,1738,Friendly
+2022-01-09,Netherlands,Brazil,2,2,2.76,2.27,1610,1936,Friendly
+2018-06-08,England,Italy,1,2,1.72,2.89,2024,1916,Friendly
+2018-11-22,Spain,Argentina,1,0,1.49,1.39,2088,1695,Friendly
+2018-08-22,Germany,Belgium,0,2,1.66,2.45,1578,1668,Friendly
+2020-09-04,Spain,Brazil,2,2,2.61,2.66,1562,1753,Friendly
+2024-07-29,Germany,Netherlands,1,0,1.79,0.81,1604,1919,Friendly
+2021-06-20,Spain,England,0,2,0.56,2.79,2027,1693,Friendly
+2022-08-13,Germany,Italy,1,2,1.77,2.9,1945,1894,Friendly
+2019-03-01,Netherlands,Brazil,3,3,2.8,3.5,1876,1595,Friendly
+2024-12-16,Italy,England,0,1,1.23,2.11,1979,1688,Friendly
+2017-01-30,Germany,Brazil,3,2,3.42,1.47,1961,1554,Friendly
+2018-11-03,England,Germany,2,2,3.48,0.53,1538,2031,Friendly
+2023-06-28,Brazil,France,0,2,0.56,3.27,2070,1847,Friendly
+2026-03-24,Portugal,Belgium,1,1,1.69,1.68,1846,1903,Friendly
+2016-08-09,Italy,Spain,3,1,2.77,1.98,1943,2095,Friendly
+2025-04-04,Belgium,England,0,1,1.43,1.4,1732,1902,Friendly
+2022-12-17,Argentina,England,2,3,2.24,3.36,1868,1520,World Cup
+2023-11-03,Germany,Belgium,1,2,1.93,3.09,2046,1794,Friendly
+2024-04-04,Netherlands,Argentina,1,3,1.02,3.31,1699,1595,World Cup
+2017-09-07,Argentina,Germany,2,1,3.12,1.92,2022,1533,Friendly
+2016-11-22,Portugal,Brazil,1,2,1.13,2.34,1797,1710,Friendly
+2017-04-22,Portugal,Germany,1,1,0.78,1.87,1903,1681,World Cup
+2023-03-23,Netherlands,Brazil,1,2,2.29,2.82,1749,1537,Friendly
+2018-05-04,Italy,Argentina,3,1,2.63,1.94,1795,2035,Friendly
+2021-11-15,England,Germany,2,2,1.64,2.91,1775,1940,Friendly
+2020-02-24,Spain,Belgium,1,2,1.11,2.44,1992,1967,Friendly
+2022-01-10,Brazil,Portugal,2,0,0.91,0.55,2082,1996,Friendly
+2024-01-21,Netherlands,Belgium,0,1,0.93,1.8,1808,2039,Friendly
+2021-03-12,Netherlands,France,3,0,3.07,0.72,1834,1657,Friendly
+2018-08-20,Argentina,England,2,1,2.83,1.42,1520,1752,Friendly
+2026-03-29,France,Argentina,0,2,1.49,2.59,1510,1525,Friendly
+2024-07-29,Spain,Argentina,1,3,1.2,2.91,1862,1658,Friendly
+2020-05-22,Brazil,Portugal,1,1,1.29,1.4,2061,1973,Friendly
+2023-03-09,England,Belgium,3,3,3.41,2.62,1551,2076,World Cup
+2018-06-16,England,France,0,1,0.99,2.06,2080,1656,Friendly
+2020-03-28,Netherlands,Argentina,1,3,2.15,2.82,1830,1618,Friendly
+2026-07-06,France,Spain,0,1,1.04,2.01,1840,2037,Friendly
+2020-05-09,Italy,Spain,0,1,0.7,1.3,1726,1863,Friendly
+2019-05-16,England,Netherlands,0,1,0.76,1.43,1704,2015,Friendly
+2023-05-26,England,Brazil,0,1,0.93,2.61,1529,1643,Friendly
+2021-04-19,Belgium,Portugal,0,2,0.79,3.06,1714,1868,World Cup
+2023-11-28,Belgium,England,3,2,3.49,3.17,2074,1963,Friendly
+2018-06-21,Portugal,Spain,1,2,1.83,2.74,1967,1740,Friendly
+2021-01-08,Belgium,Italy,2,3,3.4,2.7,2013,1913,Friendly
+2020-01-19,Germany,Portugal,3,1,2.32,1.02,1912,2091,Friendly
+2023-06-09,Italy,France,1,1,2.19,1.07,2043,1829,Friendly
+2021-01-10,Belgium,Brazil,1,1,1.6,1.67,1873,2088,Friendly
+2018-02-10,Argentina,Belgium,2,1,1.3,1.18,1921,1693,Friendly
+2023-07-03,Netherlands,Germany,3,2,2.95,1.75,2062,1841,Friendly
+2020-03-30,Belgium,Italy,1,0,1.88,1.02,1558,1979,Friendly
+2024-02-06,Argentina,Portugal,3,1,3.39,1.36,1811,1669,Friendly
+2026-06-22,Spain,Germany,1,0,0.66,0.96,1952,1828,Friendly
+2020-12-04,England,Spain,0,0,0.52,0.99,2098,1851,World Cup
+2024-08-25,France,England,0,2,1.2,2.76,2092,1627,Friendly
+2025-10-01,Netherlands,Belgium,1,1,1.61,1.5,1787,1544,Friendly
+2025-12-29,Netherlands,Portugal,1,2,2.35,2.72,1619,1966,Friendly
+2024-10-02,Argentina,Brazil,2,2,1.71,2.9,1680,1538,Friendly
+2019-05-31,Brazil,Italy,2,3,2.35,3.39,1579,2044,Friendly
+2023-04-15,Argentina,Portugal,1,1,2.3,1.51,1504,1645,Friendly
+2021-09-03,Spain,Brazil,0,2,1.48,2.23,1552,1798,World Cup
+2022-02-13,Netherlands,Portugal,2,2,3.44,2.98,1743,1806,Friendly
+2026-05-22,Italy,Argentina,1,2,1.93,1.5,1604,1663,Friendly
+2024-02-01,Brazil,Netherlands,1,2,1.3,1.87,1947,1952,Friendly
+2024-07-14,Netherlands,Brazil,1,3,1.65,3.1,1627,1644,Friendly
+2024-04-30,England,Italy,1,1,1.46,0.82,1951,1809,Friendly
+2017-04-17,England,Germany,0,0,1.13,0.59,1726,1501,Friendly
+2017-08-30,France,England,0,2,0.94,2.46,1973,1644,Friendly
+2023-06-11,Italy,Argentina,2,2,1.33,2.05,1923,1510,Friendly
+2021-11-23,France,Brazil,2,3,2.37,3.08,1851,1771,Friendly
+2021-12-31,Brazil,Portugal,2,0,2.84,0.65,2040,1647,World Cup
+2018-06-25,Netherlands,Belgium,0,2,1.16,1.36,2100,1905,Friendly
+2016-07-15,Brazil,Argentina,2,2,2.6,2.67,2003,1720,Friendly
+2018-10-17,France,Spain,2,2,2.53,1.94,1706,1651,World Cup
+2024-01-17,Portugal,Germany,1,0,0.89,0.63,1657,1682,Friendly
+2023-08-18,England,Brazil,1,0,1.57,0.89,1512,1522,Friendly
+2020-10-11,Brazil,England,1,3,2.6,3.3,1984,1934,Friendly
+2025-06-11,France,Brazil,1,2,1.2,3.45,1803,2053,Friendly
+2025-10-04,Netherlands,England,2,3,1.86,2.9,1994,2079,Friendly
+2024-01-26,England,Netherlands,2,1,2.61,1.59,1721,1873,Friendly
+2020-12-09,Spain,Netherlands,2,3,1.91,3.28,1926,1795,Friendly
+2017-04-19,Italy,Netherlands,0,2,0.94,2.62,2001,1905,Friendly
+2021-12-10,France,Spain,2,1,2.72,1.89,1532,2020,Friendly
+2020-05-25,Netherlands,Germany,0,2,1.65,1.81,1765,1626,Friendly
+2022-09-06,Argentina,Spain,2,2,2.11,1.48,1823,1510,Friendly
+2023-02-14,Portugal,Netherlands,2,2,2.03,3.09,1612,1609,Friendly
+2020-08-04,Netherlands,France,3,1,3.07,1.13,2049,1796,Friendly
+2016-11-28,Germany,Netherlands,2,1,2.59,1.43,1768,2026,Friendly
+2019-05-05,England,France,1,0,0.89,0.57,1562,1730,Friendly
+2025-01-30,England,France,1,1,1.39,1.88,1820,2063,Friendly
+2021-10-15,France,England,0,3,1.28,3.23,1931,1984,Friendly
+2025-12-25,England,Netherlands,2,3,1.92,3.27,1682,1528,Friendly
+2024-06-26,Netherlands,England,1,2,1.49,2.61,1894,2095,Friendly
+2024-06-21,Argentina,France,1,1,1.11,1.49,1687,1569,Friendly
+2024-04-25,Argentina,Spain,2,2,2.37,2.05,1659,1824,Friendly
+2022-03-28,Argentina,Portugal,1,1,1.64,1.33,2040,2076,Friendly
+2022-09-03,Spain,Italy,0,2,0.67,2.22,1890,1778,Friendly
+2017-09-30,Spain,France,3,2,2.6,2.2,1760,1789,Friendly
+2025-09-19,Argentina,Spain,0,0,0.53,1.52,1587,2004,Friendly
+2018-08-04,England,Germany,2,0,3.04,0.68,2042,1760,Friendly
+2026-03-02,Argentina,Brazil,2,3,1.97,2.98,2100,1881,Friendly
+2018-09-21,Netherlands,Portugal,2,1,2.7,2.25,1925,1764,Friendly
+2017-01-11,Netherlands,Spain,1,2,1.46,3.0,1748,1754,Friendly
+2023-06-05,Brazil,Portugal,1,0,1.16,0.58,1856,1833,Friendly
+2019-10-06,Spain,Germany,3,3,3.46,3.07,1909,1691,Friendly
+2025-05-18,Germany,Italy,1,2,1.25,2.63,2056,1514,Friendly
+2020-12-11,Argentina,Spain,1,0,1.54,0.65,2096,1838,Friendly
+2019-07-30,England,Argentina,1,2,1.36,3.43,1638,1857,Friendly
+2021-11-30,Belgium,Italy,1,2,1.12,2.13,1910,2012,Friendly
+2025-02-12,Argentina,Belgium,2,4,2.48,3.3,1609,1582,Friendly
+2019-05-06,Italy,Brazil,1,3,2.14,3.45,2005,1756,Friendly
+2022-07-10,Germany,Italy,1,3,1.67,2.83,1777,1824,World Cup
+2024-11-20,Spain,France,3,1,3.42,1.39,2088,1639,Friendly
+2017-02-14,Spain,France,1,3,2.47,3.26,2000,1645,Friendly
+2020-04-15,Argentina,Netherlands,2,2,2.11,2.0,1971,1889,Friendly
+2022-05-30,Netherlands,Germany,1,3,2.58,2.7,1839,1558,Friendly
+2016-07-24,England,Netherlands,2,1,2.22,1.14,1557,1867,Friendly
+2018-02-11,Portugal,Brazil,3,1,3.37,1.94,2050,1625,Friendly
+2019-03-22,Portugal,England,1,0,1.27,0.73,1556,1677,Friendly
+2020-02-28,England,Argentina,0,2,1.12,1.33,1931,2044,Friendly
+2020-03-04,Brazil,Portugal,1,0,1.62,2.22,1975,1744,World Cup
+2025-11-08,France,Spain,2,0,2.39,1.48,1931,1984,Friendly
+2020-10-28,England,Argentina,0,0,0.71,0.93,1998,1677,Friendly
+2020-04-06,Italy,Portugal,2,2,1.83,2.37,1686,1606,Friendly
+2024-09-06,Argentina,Belgium,1,2,1.53,2.47,1588,1623,Friendly
+2022-07-08,Spain,Belgium,3,0,3.49,0.87,1779,1588,Friendly
+2018-06-09,Brazil,Argentina,3,1,2.47,1.44,1871,1566,Friendly
+2019-07-11,Brazil,Germany,1,2,1.0,2.01,2069,1534,Friendly
+2023-10-19,England,Italy,1,2,2.24,2.66,1976,1757,Friendly
+2022-04-13,Germany,Italy,2,0,1.22,0.76,1802,1853,Friendly
+2017-07-05,Netherlands,Argentina,0,2,0.76,3.45,1787,1533,Friendly
+2023-04-25,England,Brazil,3,1,3.17,1.38,1519,1990,Friendly
+2020-05-14,Netherlands,Spain,0,2,1.06,1.91,2078,1913,Friendly
+2018-03-08,England,Germany,3,1,3.15,1.53,1822,1616,Friendly
+2017-10-27,Italy,Brazil,2,1,2.69,1.94,1814,1754,Friendly
+2025-08-21,Argentina,Netherlands,3,2,3.3,2.42,2034,1731,Friendly
+2022-07-04,Argentina,Germany,0,2,1.18,2.72,1694,1718,Friendly
+2020-09-22,Spain,Italy,3,3,3.0,3.02,1508,1580,Friendly
+2021-08-18,England,Spain,1,2,1.8,3.13,2005,1983,Friendly
+2018-10-25,Italy,France,1,3,2.07,2.87,1917,2010,Friendly
+2020-02-13,Netherlands,Belgium,1,1,1.18,1.26,1962,1817,Friendly
+2022-10-01,Argentina,Italy,1,2,1.9,2.96,1511,1842,Friendly
+2025-11-30,England,Netherlands,3,3,2.68,3.09,1588,1982,Friendly
+2022-11-27,England,Portugal,1,0,2.05,0.74,2044,1639,Friendly
+2017-06-18,Brazil,France,1,2,1.72,2.13,1890,1716,Friendly
+2026-05-22,Netherlands,Germany,2,2,2.51,2.4,1999,1729,Friendly
+2017-07-19,Belgium,Argentina,4,3,2.92,3.1,2078,1893,Friendly
+2021-12-15,Netherlands,France,0,1,1.15,2.04,1598,1902,Friendly
+2026-02-20,Portugal,Spain,2,2,3.26,1.53,1552,1817,Friendly
+2018-07-31,Italy,Belgium,0,1,1.61,1.71,2096,1600,World Cup
+2020-07-10,Netherlands,Belgium,1,3,0.83,3.42,1600,1710,World Cup
+2023-12-08,Italy,Spain,2,3,2.58,3.09,1888,1634,Friendly
+2020-07-12,Germany,Argentina,1,2,2.05,1.48,1780,1605,Friendly
+2020-06-01,Portugal,Spain,0,0,0.61,1.15,1619,2012,Friendly
+2021-02-04,Belgium,Spain,1,2,1.48,1.58,1639,1782,Friendly
+2016-07-21,England,France,1,0,1.29,0.6,1841,2098,Friendly
+2024-10-27,Netherlands,England,2,1,2.11,1.1,2015,1820,Friendly
+2018-10-18,Germany,Brazil,2,2,2.42,2.53,1968,1585,World Cup
+2023-04-14,Spain,Portugal,0,2,0.88,2.86,1648,1886,Friendly
+2020-06-16,Italy,Argentina,2,0,1.84,1.68,1882,1666,Friendly
+2018-04-17,Belgium,Germany,1,1,0.89,2.73,2004,1549,World Cup
+2017-03-04,Germany,Netherlands,3,1,2.85,1.95,1587,1788,Friendly
+2018-02-27,Spain,Netherlands,2,1,2.31,1.81,1983,1697,Friendly
+2019-06-07,Argentina,France,2,0,1.45,1.4,2042,1628,Friendly
+2022-11-12,Spain,France,3,1,2.67,1.51,1940,1699,Friendly
+2018-07-06,Spain,France,1,1,1.5,2.45,2064,1826,Friendly
+2025-04-19,Brazil,England,2,3,2.99,3.32,2083,2070,World Cup
+2019-01-18,England,Belgium,1,3,1.91,2.96,1589,1996,Friendly
+2017-06-02,Portugal,Belgium,0,1,0.84,2.08,1596,1867,World Cup
+2024-04-09,Belgium,France,2,3,2.54,3.29,1889,1720,Friendly
+2025-01-11,Netherlands,England,2,2,2.16,3.03,1883,1600,Friendly
+2022-01-24,England,Germany,1,1,1.22,0.98,2082,1853,Friendly
+2018-03-08,Argentina,Italy,3,2,2.08,2.78,1568,1991,World Cup
+2024-11-28,Portugal,Germany,3,1,2.73,1.76,1841,1520,Friendly
+2026-01-25,France,England,1,3,0.97,2.72,1585,1616,Friendly
+2023-01-06,Germany,France,1,3,1.86,3.33,2003,1708,Friendly
+2021-03-14,Belgium,Spain,2,0,2.26,0.8,1732,2068,Friendly
+2018-05-28,France,Germany,2,2,2.85,2.68,1544,1689,Friendly
+2024-08-16,Netherlands,Germany,2,3,3.19,3.41,1682,2080,Friendly
+2022-05-15,Brazil,Netherlands,3,2,3.21,1.8,1505,1969,World Cup
+2025-06-08,Brazil,France,1,0,2.3,1.72,1551,1747,Friendly
+2024-09-22,England,France,3,1,3.5,0.77,1573,1936,Friendly
+2018-11-01,Belgium,Spain,0,2,1.02,2.98,1855,2005,Friendly
+2018-02-16,Italy,Argentina,2,0,2.36,0.82,1722,1679,Friendly
+2024-07-06,Italy,Brazil,0,3,1.14,2.14,1938,2085,Friendly
+2017-08-05,Spain,Germany,1,2,2.15,2.89,1978,1629,Friendly
+2024-04-22,Brazil,Belgium,0,1,1.69,2.52,1580,1633,Friendly
+2023-02-18,Argentina,Portugal,2,2,2.75,2.03,2099,1956,Friendly
+2017-04-07,Netherlands,England,3,0,3.18,0.73,1812,1591,Friendly
+2024-12-24,Argentina,England,2,3,1.91,2.9,1520,1826,World Cup
+2025-05-25,Brazil,Belgium,2,2,2.68,1.82,1556,1804,Friendly
+2022-01-29,Netherlands,Spain,0,2,0.55,2.32,1625,1972,Friendly
+2021-08-30,Germany,Brazil,2,3,2.53,3.26,2014,1633,Friendly
+2021-09-03,Portugal,Germany,4,2,3.05,2.78,1623,1857,Friendly
+2025-09-28,Netherlands,Portugal,2,0,2.7,1.04,1968,2019,Friendly
+2021-03-01,Brazil,Portugal,3,1,3.44,1.25,2085,2069,Friendly
+2022-11-09,Netherlands,England,1,1,1.31,1.82,1577,1631,Friendly
+2024-11-27,Netherlands,Italy,3,2,2.86,2.11,1889,1891,World Cup
+2021-08-17,Spain,Netherlands,2,2,2.88,2.58,2067,1865,Friendly
+2025-05-26,Spain,France,0,1,0.73,1.53,1897,1974,Friendly
+2022-01-06,Netherlands,England,2,1,1.99,1.55,1951,1874,Friendly
+2023-10-10,Germany,Brazil,1,0,2.74,0.78,1884,1633,Friendly
+2024-03-12,Germany,England,0,1,0.8,1.54,1892,1646,Friendly
+2021-01-18,Portugal,Germany,1,2,1.0,3.27,1845,2030,Friendly
+2021-12-19,Argentina,Netherlands,0,0,1.38,0.61,1560,1507,Friendly
+2020-04-23,Italy,Brazil,1,1,1.45,1.56,1983,1607,Friendly
+2018-03-02,Italy,Netherlands,1,1,2.22,1.91,1887,1544,Friendly
+2017-11-06,Argentina,Portugal,3,2,3.19,2.36,2061,1996,Friendly
+2016-09-11,Argentina,England,0,2,0.54,1.98,1686,1799,Friendly
+2016-10-23,Argentina,Italy,1,1,1.59,1.9,1862,1609,Friendly
+2024-10-05,Brazil,Germany,0,1,1.06,0.93,1837,1974,Friendly
+2018-10-12,Portugal,England,1,4,1.21,3.48,1749,2031,Friendly
+2018-08-09,Germany,Portugal,0,3,0.53,3.45,2078,1750,Friendly
+2017-05-18,Brazil,Netherlands,1,2,1.02,2.33,1852,1596,Friendly
+2026-02-27,Germany,Brazil,2,0,2.46,1.17,2049,1812,Friendly
+2026-04-26,Germany,Netherlands,3,0,2.11,0.81,1910,2004,Friendly
+2020-03-05,France,Argentina,3,1,3.4,2.81,1675,1777,Friendly
+2016-07-16,Italy,France,3,2,3.3,2.62,1563,2018,World Cup
+2017-02-27,Italy,Belgium,1,2,2.06,2.36,1641,1999,Friendly
+2019-06-20,England,France,1,0,1.4,0.65,1657,1663,Friendly
+2017-12-16,Portugal,Italy,2,2,2.89,2.72,1839,1533,Friendly
+2017-11-01,Belgium,Spain,2,2,1.73,2.91,1958,1904,Friendly
+2017-11-05,Brazil,Italy,0,0,0.79,1.47,2072,1646,Friendly
+2024-06-13,England,Argentina,0,2,1.03,2.92,1662,2056,Friendly
+2025-02-08,England,Argentina,1,3,1.89,2.35,1942,2040,Friendly
+2021-06-17,England,Belgium,0,2,0.6,2.98,1606,1808,Friendly
+2016-12-11,Brazil,Spain,2,3,3.35,2.88,1750,1949,Friendly
+2026-04-29,Brazil,Belgium,1,0,2.04,1.18,1843,1786,World Cup
+2018-09-02,Argentina,Germany,0,3,1.29,3.39,1933,1768,Friendly
+2019-10-29,Argentina,Brazil,2,1,2.69,2.16,1574,1697,Friendly
+2017-11-27,France,Italy,3,1,3.15,0.74,2091,1570,Friendly
+2024-09-02,Italy,Belgium,1,1,0.78,1.62,1543,1500,Friendly
+2024-08-18,Argentina,Netherlands,0,3,1.09,2.86,1917,2035,Friendly
+2017-10-04,Brazil,Italy,2,1,2.38,1.46,1554,1675,Friendly
+2019-11-30,Argentina,Netherlands,3,3,3.23,3.32,2003,1597,Friendly
+2025-10-08,Netherlands,Brazil,1,1,1.0,1.47,1739,1967,Friendly
+2021-09-27,England,Argentina,1,3,1.45,3.4,1637,1568,Friendly
+2021-07-23,Italy,Spain,1,2,1.18,2.84,1546,1615,Friendly
+2024-01-07,Netherlands,England,2,4,2.7,3.03,2089,2032,Friendly
+2019-05-07,Brazil,Italy,2,3,1.24,2.46,2011,1796,World Cup
+2019-12-06,Argentina,Portugal,2,3,2.71,3.24,1740,1739,Friendly
+2019-03-01,Spain,Germany,3,1,3.09,1.92,1660,1620,Friendly
+2021-01-11,Italy,Portugal,2,3,2.38,2.75,1686,1823,Friendly
+2018-05-14,France,Portugal,0,3,1.49,2.99,1992,1638,Friendly
+2017-02-17,Germany,Argentina,0,1,0.59,0.77,1991,1865,Friendly
+2020-01-27,Portugal,Belgium,4,1,3.48,1.75,1881,1597,Friendly
+2017-02-14,France,Germany,1,3,1.29,2.79,1802,1936,Friendly
+2020-01-13,Netherlands,England,3,1,2.66,2.35,1735,1773,Friendly
+2018-07-12,Belgium,Netherlands,1,2,1.68,2.05,1661,1516,Friendly
+2018-07-14,Portugal,Germany,2,0,3.02,0.76,1540,1525,Friendly
+2018-10-23,Brazil,Portugal,1,0,0.95,1.22,2062,1997,Friendly
+2026-04-03,England,Belgium,1,3,1.88,3.2,1753,1689,Friendly
+2022-01-07,Portugal,Argentina,2,2,3.04,3.03,1620,1548,Friendly
+2023-11-06,Spain,Brazil,2,2,2.76,1.84,2065,1533,Friendly
+2021-07-10,Brazil,England,2,1,1.66,1.47,2078,2081,Friendly
+2024-07-04,Netherlands,Italy,1,0,2.3,0.51,1805,1932,Friendly
+2026-05-25,England,Portugal,1,1,0.58,1.1,1965,1543,Friendly
+2024-07-08,Netherlands,Argentina,0,3,0.96,3.39,2015,1798,Friendly
+2025-05-27,France,Germany,3,2,2.59,1.71,1525,1964,Friendly
+2017-09-19,Italy,Belgium,1,2,1.28,2.37,1877,2046,Friendly
+2022-01-03,Spain,Argentina,2,3,1.92,3.18,1706,1618,Friendly
+2020-08-03,England,Brazil,0,1,0.82,1.79,2033,1968,Friendly
+2021-07-10,Netherlands,Argentina,1,2,2.03,2.93,2098,1835,Friendly
+2020-11-03,Portugal,Brazil,3,2,3.27,2.97,1669,1903,Friendly
+2017-01-06,Portugal,Belgium,2,2,2.45,3.04,1825,1735,Friendly
+2025-03-03,Italy,Germany,1,3,1.76,2.78,1679,2087,Friendly
+2026-06-29,Netherlands,Germany,2,1,2.57,1.69,1508,1691,Friendly
+2025-08-21,Spain,Portugal,2,0,2.64,1.66,2008,2075,Friendly
+2019-05-29,Netherlands,Spain,2,0,2.62,0.81,1646,2051,Friendly
+2023-03-16,Spain,England,0,1,0.81,1.38,1735,1861,World Cup
+2024-01-02,Brazil,Belgium,2,0,3.04,1.05,1514,2082,Friendly
+2025-09-20,England,Netherlands,1,0,1.7,0.77,1994,1830,Friendly
+2018-04-23,Netherlands,England,1,2,2.4,2.39,1612,1769,Friendly
+2019-09-17,Germany,England,2,3,3.06,3.32,1506,2059,World Cup
+2018-04-03,Spain,England,2,2,2.44,2.66,1979,1799,Friendly
+2019-08-06,Belgium,France,2,1,1.92,1.51,1965,1874,Friendly
+2018-11-18,Spain,Portugal,0,2,0.9,2.6,1881,1916,World Cup
+2024-04-06,Italy,Netherlands,2,1,2.26,1.64,2000,1678,Friendly
+2025-01-04,Italy,Portugal,2,1,3.23,1.74,2050,1661,Friendly
+2017-11-14,Spain,Italy,1,2,1.38,2.31,1612,1511,Friendly
+2017-10-06,Brazil,England,0,2,0.66,2.93,1763,2057,Friendly
+2024-10-07,Belgium,Netherlands,3,1,3.28,0.87,1702,1790,Friendly
+2025-09-18,Netherlands,Argentina,2,1,2.14,1.89,1589,1536,Friendly
+2017-02-26,France,England,2,0,2.36,0.77,2048,1594,Friendly
+2023-11-10,Belgium,Portugal,1,1,2.12,2.59,1715,2080,Friendly
+2019-02-16,Spain,Argentina,1,1,1.78,0.89,1541,1976,Friendly
+2023-02-20,Germany,Italy,4,0,3.32,1.46,1612,1918,Friendly
+2025-12-12,Netherlands,Spain,2,3,2.98,3.1,1865,1881,Friendly
+2024-12-27,England,Portugal,1,1,0.93,2.96,1766,1639,Friendly
+2022-03-27,Netherlands,Spain,1,1,2.95,1.84,1665,1739,Friendly
+2024-11-05,France,Portugal,0,1,0.63,2.5,1736,1581,Friendly
+2021-03-17,Italy,Portugal,0,1,1.19,1.73,1507,1638,Friendly
+2022-02-09,Argentina,France,1,0,1.73,1.34,1664,1675,Friendly
+2023-07-24,Italy,Netherlands,0,3,0.77,2.85,1592,2062,Friendly
+2021-09-06,England,Brazil,1,2,1.19,2.38,2039,1980,Friendly
+2022-09-26,Brazil,Italy,0,2,0.62,2.67,1774,1543,Friendly
+2024-12-18,Italy,Germany,1,3,1.02,3.46,1866,1910,World Cup
+2016-12-09,England,Germany,2,3,2.37,3.38,1590,1553,Friendly
+2020-03-19,Portugal,Netherlands,1,3,1.22,2.99,1622,1960,Friendly
+2022-11-03,Belgium,Argentina,0,3,1.02,2.46,2071,1924,World Cup
+2020-04-24,Spain,Germany,1,4,1.67,3.03,1772,1667,World Cup
+2023-07-25,Brazil,Portugal,0,2,0.78,3.25,2017,1821,Friendly
+2022-11-10,Italy,Argentina,3,0,3.0,1.81,2022,1909,Friendly
+2017-05-23,Argentina,Netherlands,0,0,0.85,1.33,1677,2059,Friendly
+2023-04-27,England,Netherlands,2,2,2.68,1.84,1894,2091,Friendly
+2020-10-16,Germany,England,1,2,2.39,2.47,1741,1844,Friendly
+2018-04-27,France,Portugal,1,0,2.21,0.73,1662,1695,Friendly
+2023-07-05,Brazil,England,2,2,1.95,1.78,1883,2021,World Cup
+2021-09-03,Italy,Germany,1,3,0.54,3.2,2005,1930,Friendly
+2023-04-24,Portugal,Spain,2,2,1.62,1.29,1664,2006,Friendly
+2020-06-07,Argentina,Brazil,1,0,0.93,1.33,1510,2075,Friendly
+2022-04-08,Germany,England,3,0,3.08,0.87,2072,1567,Friendly
+2016-11-04,France,Argentina,2,1,2.75,1.27,2004,1742,Friendly
+2023-11-19,Netherlands,Germany,2,2,2.03,2.34,1940,2038,Friendly
+2023-06-19,Portugal,Brazil,3,1,3.45,1.56,1995,1855,Friendly
+2020-05-16,Italy,Brazil,0,2,0.63,2.61,1682,1908,Friendly
+2017-10-03,England,Portugal,1,2,1.22,2.39,1625,1575,Friendly
+2019-12-23,Belgium,England,1,0,1.38,1.13,2027,1768,Friendly
+2025-08-03,Brazil,Italy,1,3,1.53,3.06,2055,1662,Friendly
+2024-11-09,Netherlands,Belgium,1,1,1.47,0.82,2063,1841,Friendly
+2024-02-16,Netherlands,Portugal,2,1,3.31,2.46,1798,2050,Friendly
+2022-04-30,England,Spain,3,2,3.03,1.94,1675,2062,Friendly
+2016-12-09,England,Netherlands,1,1,1.21,1.88,1760,1748,Friendly
+2020-03-14,Netherlands,Portugal,2,2,2.86,2.32,1789,1573,Friendly
+2018-01-24,England,Germany,1,1,0.57,1.26,1746,1584,Friendly
+2017-08-18,Netherlands,Portugal,2,0,2.57,0.62,1802,1876,Friendly
+2018-12-22,Spain,Argentina,2,2,2.03,2.18,2098,1526,Friendly
+2018-04-13,Germany,Netherlands,0,1,1.07,2.29,1792,1538,Friendly
+2017-12-22,Argentina,Portugal,0,0,1.34,0.68,1645,1568,Friendly
+2016-11-05,Germany,France,1,3,1.67,2.94,2043,1610,Friendly
+2022-05-31,Belgium,Portugal,3,0,2.64,0.71,1996,1655,Friendly
+2020-11-02,Argentina,Brazil,1,1,2.42,1.13,1990,1624,Friendly
+2016-10-20,Belgium,England,1,0,1.94,1.26,1566,1627,Friendly
+2020-12-13,Germany,Brazil,2,1,1.86,2.1,1607,1516,Friendly
+2025-06-15,England,Brazil,0,0,1.14,0.63,1716,1578,Friendly
+2020-05-30,England,Germany,1,2,2.05,1.96,1893,1826,Friendly
+2020-06-24,Italy,Portugal,1,0,1.96,0.61,1677,1566,Friendly
+2021-01-14,Germany,Netherlands,1,0,0.8,0.58,2091,1799,Friendly
+2025-01-13,Brazil,Belgium,1,1,0.95,1.25,1835,1715,Friendly
+2021-08-05,Brazil,Spain,1,0,0.66,0.99,1912,1710,Friendly
+2017-01-18,Brazil,Netherlands,1,2,0.83,3.06,2005,1533,Friendly
+2022-10-25,Argentina,Portugal,2,2,3.14,2.63,2070,1580,Friendly
+2019-06-03,Italy,France,1,3,0.75,3.36,1520,1688,Friendly
+2018-08-08,Italy,Brazil,3,3,2.9,3.24,1579,1902,Friendly
+2022-09-04,France,Netherlands,0,2,0.73,2.47,2037,1519,Friendly
+2016-08-05,Brazil,Italy,0,1,1.4,1.82,1552,1716,Friendly
+2020-01-20,England,Brazil,3,3,2.62,3.32,1598,1813,Friendly
+2019-10-04,Brazil,Spain,2,3,2.66,3.03,1619,1944,Friendly
+2024-03-12,France,Portugal,3,1,3.3,1.62,1900,1803,Friendly
+2018-10-18,France,Argentina,3,2,3.47,3.4,1787,1562,World Cup
+2019-03-13,France,Brazil,3,1,3.0,1.02,1696,2096,Friendly
+2024-12-30,Germany,Portugal,2,1,2.83,1.08,1815,1823,Friendly
+2020-11-08,France,Germany,2,0,1.87,1.14,2016,1905,Friendly
+2026-06-05,Belgium,Netherlands,0,3,0.59,3.26,1762,1917,Friendly
+2017-05-15,France,Belgium,0,1,0.5,2.12,1843,1805,Friendly
+2021-05-23,Belgium,Italy,1,0,0.97,0.57,1621,2060,Friendly
+2024-04-01,Argentina,Belgium,2,4,1.95,2.99,1738,1686,Friendly
+2022-08-18,Brazil,England,1,0,1.28,0.89,1546,1647,Friendly
+2024-03-24,Germany,Brazil,2,0,2.85,0.61,1557,1995,Friendly
+2022-03-02,Germany,Netherlands,1,1,2.35,0.85,1780,1800,Friendly
+2026-05-25,Italy,Spain,1,2,1.45,2.65,1727,1968,Friendly
+2026-02-03,Argentina,Germany,3,1,2.61,0.51,1982,1840,Friendly
+2023-09-18,Netherlands,Germany,3,3,2.97,2.85,1666,1718,Friendly
+2024-05-07,Netherlands,Italy,1,0,1.34,0.58,1974,1937,Friendly
+2021-01-23,Portugal,Italy,0,0,0.83,1.57,1632,2098,Friendly
+2023-11-24,Netherlands,Argentina,1,2,1.64,3.24,2081,1624,Friendly
+2025-04-04,Argentina,Portugal,0,0,0.83,0.84,1514,1752,Friendly
+2025-09-24,England,Brazil,1,2,1.99,1.88,1966,2041,Friendly
+2022-03-18,Portugal,Netherlands,1,3,1.11,2.8,1936,1571,Friendly
+2019-06-04,Spain,Belgium,0,1,0.67,2.32,1911,1784,Friendly
+2018-10-12,Brazil,Spain,1,2,1.27,2.12,1698,1769,Friendly
+2024-09-30,Belgium,Netherlands,2,1,1.96,1.86,1530,1809,Friendly
+2023-12-16,Brazil,France,2,1,2.73,0.96,1770,1880,Friendly
+2019-03-13,France,Italy,1,0,1.72,0.83,1786,1717,Friendly
+2019-02-21,England,Netherlands,3,3,2.76,3.33,1799,1613,World Cup
+2016-11-19,Germany,England,2,3,1.57,2.49,1753,1808,Friendly
+2026-02-19,Brazil,Argentina,1,2,0.91,2.34,2010,1697,Friendly
+2023-01-14,Spain,Italy,0,1,1.27,1.58,1647,1868,Friendly
+2020-06-28,Brazil,Argentina,1,2,1.81,3.04,1860,1719,World Cup
+2018-02-08,France,Argentina,1,2,1.36,2.27,1899,1522,Friendly
+2023-04-04,England,Argentina,2,2,2.36,2.69,2085,1802,Friendly
+2023-01-01,Italy,Portugal,2,3,2.9,3.46,2032,1779,Friendly
+2022-08-21,Portugal,Belgium,1,3,1.49,3.41,1781,1525,Friendly
+2016-09-27,Netherlands,France,2,1,1.74,0.53,1845,1804,Friendly
+2019-06-19,Netherlands,Brazil,0,2,1.09,3.14,1741,1847,Friendly
+2020-06-05,Italy,England,1,2,1.21,2.25,1885,1780,Friendly
+2022-06-25,England,Italy,2,1,2.56,1.14,1960,1743,Friendly
+2020-06-11,England,Argentina,3,2,3.46,2.94,1671,2095,Friendly
+2022-06-08,Germany,Belgium,3,3,3.02,2.59,1874,2090,Friendly
+2025-11-27,England,Brazil,2,1,2.86,1.26,1615,1842,Friendly
+2019-01-29,France,Portugal,1,1,2.24,1.61,1802,1832,World Cup
+2023-10-19,Portugal,Netherlands,1,2,1.43,2.73,1915,1581,World Cup
+2019-05-11,Germany,Portugal,0,2,1.07,1.52,2079,1806,Friendly
+2019-10-12,Argentina,Netherlands,2,3,1.39,3.46,1652,2014,Friendly
+2024-02-19,Italy,France,1,1,1.58,2.26,1645,1736,Friendly
+2023-12-25,Brazil,Netherlands,3,2,3.23,3.34,1733,1621,Friendly
+2017-09-12,Germany,Portugal,2,0,2.03,0.52,1891,2005,Friendly
+2018-10-13,Portugal,Belgium,1,0,1.11,0.84,1958,1619,Friendly
+2019-01-10,Germany,Italy,2,2,2.09,2.69,1649,1976,Friendly
+2021-06-08,Spain,Germany,1,1,2.01,2.55,2010,1748,Friendly
+2018-03-24,Belgium,Italy,1,3,1.58,3.05,1696,1711,Friendly
+2018-04-30,Brazil,Portugal,1,0,1.4,0.87,1603,1786,Friendly
+2022-12-02,Brazil,Argentina,0,1,1.09,1.98,1710,1960,Friendly
+2019-12-09,Netherlands,Spain,0,0,0.93,1.31,2035,2032,World Cup
+2026-06-23,England,Portugal,3,2,3.48,3.27,1818,1763,Friendly
+2020-07-29,Italy,Spain,3,3,2.75,2.88,1883,1573,Friendly
+2024-05-29,Portugal,Netherlands,0,2,0.72,2.52,1700,1581,World Cup
+2018-05-29,Argentina,Germany,0,2,1.27,2.46,1927,1579,Friendly
+2020-07-24,Portugal,Belgium,1,2,1.72,2.74,1903,1541,Friendly
+2019-02-22,Belgium,Portugal,2,3,3.29,3.12,1880,1743,Friendly
+2024-06-22,France,Argentina,1,1,1.78,2.7,1802,1748,Friendly
+2022-01-01,Belgium,Netherlands,0,0,0.71,1.54,1644,2009,Friendly
+2022-07-05,Portugal,Belgium,2,2,3.27,1.87,1863,1991,Friendly
+2019-11-16,Germany,Belgium,3,0,3.4,1.59,2022,1512,Friendly
+2022-02-21,France,Germany,1,3,1.03,2.86,1572,1853,Friendly
+2023-08-12,Germany,Argentina,2,3,2.79,3.25,1546,1899,Friendly
+2021-06-26,Spain,England,2,0,2.6,0.59,1534,1580,Friendly
+2022-07-05,France,England,2,2,2.47,1.91,1558,1622,Friendly
+2019-08-10,Netherlands,Germany,3,2,3.42,1.75,1852,1776,Friendly
+2019-08-26,Argentina,Italy,1,2,1.57,3.17,1593,2035,Friendly
+2020-03-12,Belgium,Argentina,0,0,0.79,1.5,2070,1957,Friendly
+2025-10-05,Germany,Belgium,0,2,0.78,2.5,1543,1788,Friendly
+2024-08-18,Netherlands,Germany,2,3,2.6,2.44,1573,1657,Friendly
+2017-02-24,Germany,Argentina,3,2,2.9,2.03,1635,2086,Friendly
+2024-12-21,Germany,Argentina,3,2,3.22,3.21,1539,1558,Friendly
+2023-10-04,Brazil,Argentina,1,1,2.0,2.43,1604,2051,Friendly
+2026-06-22,France,Belgium,0,3,0.71,2.85,2063,1603,Friendly
+2024-07-11,Portugal,Belgium,2,3,2.47,2.26,1982,1916,Friendly
+2016-12-23,Netherlands,Italy,0,0,1.28,0.71,1686,2043,Friendly
+2026-05-02,Italy,Argentina,2,3,3.07,3.46,2023,1678,Friendly
+2023-06-10,Argentina,England,2,3,3.21,2.82,1868,2021,Friendly
+2022-05-10,Netherlands,England,3,1,2.84,1.69,1707,1874,Friendly
+2019-11-02,Belgium,Argentina,2,1,2.23,1.21,1759,1953,Friendly
+2022-10-02,Belgium,England,0,3,0.62,3.14,1838,1682,Friendly
+2026-06-03,England,Portugal,0,1,1.52,2.12,1790,2048,Friendly
+2020-10-09,Spain,Portugal,1,0,1.34,0.77,1893,2052,Friendly
+2022-01-24,Portugal,Brazil,1,3,2.12,3.34,1572,1534,Friendly
+2018-07-25,Spain,France,2,2,3.34,2.11,1728,1567,Friendly
+2023-02-28,Argentina,Belgium,0,3,0.51,3.37,1571,1877,Friendly
+2017-12-11,Portugal,Brazil,3,1,3.49,0.55,2087,1775,Friendly
+2026-03-11,Germany,Italy,0,2,1.08,2.3,1748,1824,World Cup
+2024-09-21,Italy,Portugal,2,1,2.19,1.9,2048,1938,Friendly
+2024-09-11,Spain,Argentina,3,1,3.17,2.12,1791,1642,Friendly
+2022-08-21,Italy,Spain,4,3,3.48,2.93,1797,1695,Friendly
+2019-08-06,Germany,Argentina,2,1,1.42,1.98,1692,1915,World Cup
+2016-11-13,England,Brazil,2,2,2.05,2.37,1626,1521,Friendly
+2019-01-13,Argentina,Belgium,1,2,1.86,2.55,1815,1802,Friendly
+2026-07-06,Argentina,Portugal,3,2,3.47,2.47,2012,1861,World Cup
+2018-06-25,Argentina,Belgium,0,2,1.22,1.92,1507,2019,Friendly
+2022-06-13,Germany,Portugal,0,3,0.95,3.42,2075,1558,Friendly
+2026-05-31,Spain,Belgium,2,2,2.92,2.24,1977,1809,Friendly
+2020-09-06,France,Spain,3,1,3.24,1.09,1756,2061,Friendly
+2021-10-31,Belgium,Portugal,3,2,3.04,2.18,2066,1994,Friendly
+2017-07-29,England,France,1,1,1.65,1.67,2063,1869,Friendly
+2019-02-13,Netherlands,Brazil,1,3,1.77,3.26,1930,1640,Friendly
+2016-10-22,Spain,Netherlands,2,1,2.5,0.99,1674,1730,Friendly
+2021-04-10,England,Portugal,1,2,1.44,2.33,1556,2023,World Cup
+2017-01-06,Germany,England,2,1,3.39,2.26,1904,1928,Friendly
+2020-11-07,Brazil,Italy,3,2,2.62,2.95,2055,1564,Friendly
+2022-08-16,Germany,Brazil,4,1,3.32,1.81,1618,1623,Friendly
+2019-05-28,Germany,Argentina,1,1,2.37,0.86,1657,1722,Friendly
+2025-02-21,Belgium,Portugal,1,3,2.38,3.04,1770,2093,Friendly
+2019-01-12,Argentina,Italy,1,0,1.46,1.26,1583,1719,Friendly
+2024-04-14,Spain,Belgium,2,2,1.97,2.1,1579,1731,Friendly
+2022-07-06,Argentina,Belgium,1,0,1.57,1.34,1870,1914,Friendly
+2020-10-11,England,Portugal,2,2,2.82,2.38,1957,1674,Friendly
+2023-08-24,Germany,France,1,1,2.08,0.82,1635,1763,Friendly
+2023-08-27,Netherlands,Argentina,1,1,1.02,0.98,1576,1672,Friendly
+2025-03-27,France,Spain,1,1,1.86,1.07,1735,2012,Friendly
+2021-10-12,Brazil,Netherlands,1,2,1.59,2.34,2081,1935,Friendly
+2021-03-12,Argentina,Italy,0,0,1.04,0.68,1839,1818,Friendly
+2020-01-06,France,Germany,1,2,1.66,3.33,1603,1532,Friendly
+2023-08-05,Brazil,Germany,2,0,2.26,1.03,1883,1932,Friendly
+2022-05-05,France,Belgium,1,0,2.04,0.92,1767,1768,Friendly
+2016-12-20,Brazil,Portugal,3,1,2.97,1.81,1696,2060,Friendly
+2018-07-22,Brazil,Argentina,3,3,1.66,3.13,1680,1641,Friendly
+2025-06-06,France,Italy,3,2,2.71,2.71,2008,1873,World Cup
+2025-01-08,England,Italy,2,3,3.16,3.46,1620,1854,Friendly
+2023-10-04,France,Brazil,3,1,2.33,1.47,1667,2068,Friendly
+2016-07-23,France,Netherlands,2,1,2.99,0.7,1565,1812,Friendly
+2020-08-14,Belgium,Germany,0,0,1.13,1.0,1740,1645,Friendly
+2025-11-26,Spain,France,1,0,1.79,1.08,1932,1949,Friendly
+2023-03-25,England,Spain,4,3,3.43,3.06,1641,1670,Friendly
+2023-04-24,Belgium,France,3,3,3.29,3.11,1543,1626,Friendly
+2020-05-07,Argentina,Brazil,0,2,0.57,2.83,1831,2096,Friendly
+2016-10-14,Brazil,Netherlands,1,0,2.86,0.61,1978,1667,Friendly
+2023-04-15,Brazil,Germany,0,2,0.51,1.81,1738,1877,Friendly
+2017-04-08,Argentina,Spain,2,2,1.9,2.99,1951,1509,Friendly
+2023-10-14,England,Brazil,2,2,2.7,1.71,1889,1751,Friendly
+2022-02-06,Italy,Netherlands,2,0,1.95,1.43,1889,1948,Friendly
+2019-12-06,Germany,Brazil,0,0,0.56,0.75,2038,1505,Friendly
+2016-10-15,Germany,France,2,1,2.4,1.4,1975,2017,Friendly
+2022-08-31,Portugal,France,0,4,0.98,3.44,1576,2041,Friendly
+2018-11-09,France,Belgium,1,3,0.81,1.84,1969,1908,Friendly
+2020-09-28,France,Belgium,2,0,1.63,1.03,1928,1758,Friendly
+2018-04-28,France,Netherlands,0,0,1.68,0.53,1532,1510,Friendly
+2021-12-06,England,Brazil,2,3,2.34,3.47,2082,2042,Friendly
+2018-01-06,Italy,England,1,1,2.03,1.68,1848,1790,Friendly
+2019-12-09,Belgium,Brazil,2,1,2.69,0.99,1886,1880,Friendly
+2016-08-07,Germany,Belgium,2,3,2.54,1.9,1606,1802,Friendly
+2022-06-15,Spain,Italy,2,2,2.26,3.05,1631,2011,Friendly
+2019-12-08,England,Spain,3,3,2.98,2.85,1956,1595,Friendly
+2024-10-29,Portugal,Argentina,2,2,2.28,1.79,1853,1623,Friendly
+2025-06-17,Brazil,Germany,1,2,1.09,2.05,1874,1684,World Cup
+2021-01-29,Spain,Brazil,1,3,2.39,2.9,1673,1962,Friendly
+2024-01-08,Netherlands,Spain,3,2,3.29,1.63,1790,1567,World Cup
+2022-02-23,Netherlands,Germany,0,1,0.96,1.26,1820,1993,Friendly
+2020-05-03,Belgium,Netherlands,1,1,1.47,1.61,1974,1501,Friendly
+2018-08-02,Italy,Belgium,2,2,3.44,2.18,1940,1869,Friendly
+2019-07-08,Argentina,Spain,1,1,1.8,1.07,1664,1914,Friendly
+2018-12-21,Netherlands,Spain,3,0,2.28,1.05,1641,1591,Friendly
+2016-10-02,Italy,Argentina,0,0,1.05,0.98,2020,1818,Friendly
+2017-05-15,Germany,Spain,1,1,1.7,1.72,2079,1985,Friendly
+2018-06-30,Portugal,England,1,3,1.57,2.79,1626,1998,Friendly
+2021-11-24,Italy,Germany,1,2,2.06,2.82,1513,1505,Friendly
+2022-10-23,France,Argentina,1,1,1.68,2.0,1952,1516,World Cup
+2021-06-30,Italy,Brazil,2,0,2.05,1.33,1963,1881,Friendly
+2021-07-08,Spain,Argentina,3,0,2.24,0.62,2062,1649,Friendly
+2024-03-01,Argentina,Netherlands,3,2,3.16,2.55,1613,2038,Friendly
+2023-09-14,Belgium,France,3,3,3.04,3.24,1812,2032,Friendly
+2021-12-15,Italy,Belgium,1,3,0.91,2.97,1869,1967,World Cup
+2020-01-21,France,Belgium,3,0,3.25,0.58,1870,2099,Friendly
+2020-07-12,France,Belgium,2,3,2.39,3.44,1899,1684,Friendly
+2026-03-10,Portugal,England,4,2,3.47,1.7,1644,1802,Friendly
+2021-06-25,France,Italy,1,2,1.76,1.84,1924,1977,Friendly
+2017-04-02,Netherlands,England,1,1,1.23,1.29,1542,1717,Friendly
+2022-03-03,Brazil,Belgium,0,0,0.51,0.75,1764,1637,World Cup
+2025-08-31,Portugal,Brazil,3,2,3.47,3.38,1881,1982,Friendly
+2026-01-09,Brazil,Germany,0,3,0.75,3.19,2041,1512,Friendly
+2018-05-14,Brazil,Italy,0,2,1.04,1.39,1916,1501,Friendly
+2020-11-30,Germany,England,3,1,2.82,1.74,1733,1583,Friendly
+2024-03-28,Argentina,England,0,3,1.06,3.29,1582,1786,Friendly
+2025-05-02,England,Belgium,0,1,0.84,2.27,1728,1830,Friendly
+2023-01-27,Belgium,England,0,0,0.57,1.23,1996,2062,Friendly
+2019-09-14,Argentina,England,0,0,1.07,0.52,1760,2077,World Cup
+2016-10-06,France,Italy,3,2,3.29,2.97,1717,1901,Friendly
+2025-04-20,Netherlands,Brazil,0,2,0.8,2.43,1715,2021,Friendly
+2025-11-07,Portugal,Belgium,1,1,1.35,2.23,1822,2049,Friendly
+2019-02-25,England,Germany,4,1,3.47,1.53,1626,1556,Friendly
+2020-08-31,Argentina,England,2,4,2.41,3.32,1693,1997,Friendly
+2018-02-22,Belgium,Portugal,2,2,2.4,2.46,2031,1875,Friendly
+2017-05-24,France,Belgium,1,3,1.89,3.22,1955,1508,Friendly
+2021-06-18,Netherlands,Belgium,0,2,1.07,2.39,1918,1937,Friendly
+2022-08-16,Belgium,Portugal,2,3,1.77,2.38,1818,2057,World Cup
+2022-06-11,Belgium,Brazil,2,0,2.64,0.88,1686,1732,World Cup
+2023-12-25,Argentina,Portugal,3,0,2.37,0.69,2051,1637,Friendly
+2021-01-09,Italy,Belgium,1,1,1.7,1.77,2005,1930,Friendly
+2022-10-23,France,Italy,1,2,1.21,2.42,1960,1544,Friendly
+2019-08-17,Brazil,Portugal,1,2,0.94,1.75,1847,1514,Friendly
+2024-06-09,Germany,Netherlands,0,2,0.84,2.0,2017,1693,World Cup
+2022-04-07,Argentina,Italy,2,1,2.89,1.24,1962,1882,Friendly
+2025-11-10,Portugal,Argentina,3,1,2.58,1.34,1947,1568,Friendly
+2020-01-06,France,Spain,2,2,2.52,2.55,1943,1572,World Cup
+2019-12-17,Italy,France,2,0,2.99,1.01,1701,2036,Friendly
+2021-07-01,Belgium,France,3,2,3.14,2.81,1548,1706,Friendly
+2024-03-04,Germany,France,2,0,2.64,0.99,1640,1974,Friendly
+2022-08-27,Portugal,Argentina,3,2,3.13,1.63,1526,2071,Friendly
+2025-01-13,Spain,Germany,2,2,2.99,2.0,1810,1628,Friendly
+2020-01-30,Italy,Netherlands,1,0,0.92,1.92,1579,1643,Friendly
+2019-10-14,France,Brazil,3,2,3.13,1.99,1855,1685,Friendly
+2017-12-31,England,France,3,3,3.03,2.46,1627,1608,World Cup
+2017-11-05,Italy,Argentina,2,3,2.51,2.98,1922,1775,Friendly
+2019-12-14,Argentina,Netherlands,2,0,3.41,0.9,1988,1960,World Cup
+2019-09-17,Italy,Spain,1,1,2.93,1.27,1967,1818,Friendly
+2024-03-02,Portugal,Spain,3,2,3.26,3.1,1618,1506,Friendly
+2025-10-14,Belgium,Spain,0,2,0.89,1.91,1637,2018,Friendly
+2018-07-24,Italy,Argentina,1,3,1.66,3.27,1914,1511,World Cup
+2023-09-06,Spain,France,0,3,0.52,3.38,2049,1816,Friendly
+2024-08-01,Portugal,Brazil,3,1,3.42,1.53,1693,1923,Friendly
+2020-08-19,Italy,England,2,3,2.06,3.17,1881,1706,Friendly
+2017-10-26,Brazil,Italy,1,1,1.85,0.73,1933,1913,Friendly
+2022-08-15,Netherlands,England,4,2,3.44,1.83,2100,2070,World Cup
+2020-05-13,Spain,Belgium,2,2,2.6,2.58,1632,2091,Friendly
+2019-12-22,Germany,England,2,2,1.8,3.15,1684,1941,World Cup
+2021-12-16,Netherlands,Germany,2,2,2.53,3.47,1760,2043,World Cup
+2017-07-06,Brazil,Italy,1,1,2.48,2.12,1519,1826,Friendly
+2021-05-23,England,Netherlands,1,1,1.0,0.82,1716,1538,Friendly
+2017-04-03,England,Belgium,3,0,2.56,1.01,1794,1915,Friendly
+2019-11-05,Germany,Brazil,2,1,3.01,1.35,2026,1812,Friendly
+2025-08-09,Belgium,Italy,0,1,1.03,0.62,1800,1581,Friendly
+2021-06-06,Netherlands,Belgium,4,1,3.15,1.78,1908,1935,Friendly
+2023-08-16,England,Brazil,0,0,1.16,1.97,1705,1795,Friendly
+2026-01-22,Belgium,England,3,2,3.28,1.75,1994,1995,Friendly
+2017-04-05,Italy,Spain,2,1,2.79,1.08,1606,1692,Friendly
+2023-10-03,Argentina,England,2,1,2.86,2.0,1759,1647,Friendly
+2017-09-24,Portugal,France,2,0,2.67,0.71,1856,1887,Friendly
+2019-02-08,Portugal,Netherlands,2,1,1.34,0.72,1995,1824,Friendly
+2023-02-27,England,Netherlands,0,2,0.95,2.48,1749,2085,Friendly
+2019-09-20,France,Italy,3,2,3.42,2.72,1990,1988,Friendly
+2025-09-27,Italy,Belgium,2,1,2.81,1.6,1928,1616,Friendly
+2023-07-11,France,Germany,0,1,1.23,1.01,1520,1985,Friendly
+2016-10-18,Portugal,England,2,3,2.12,3.05,1888,1715,Friendly
+2024-05-24,Belgium,Brazil,0,3,1.15,2.81,2094,1613,Friendly
+2025-08-01,Portugal,Belgium,1,0,1.42,0.76,2004,1536,Friendly
+2023-04-17,Brazil,Portugal,2,1,2.45,1.33,1984,1727,Friendly
+2018-05-12,Spain,Belgium,1,3,2.86,2.19,2067,2042,Friendly
+2017-07-12,Brazil,France,3,3,1.5,3.08,1809,2099,World Cup
+2023-06-02,Italy,Brazil,0,0,0.91,0.97,2097,1965,Friendly
+2021-04-28,Netherlands,Italy,1,2,2.23,1.81,1530,1580,Friendly
+2020-12-22,Portugal,England,1,2,2.09,1.94,1933,1626,Friendly
+2022-11-27,Brazil,Portugal,2,2,1.89,2.89,1535,1770,Friendly
+2024-05-21,Argentina,England,0,1,1.09,2.24,1523,1874,Friendly
+2022-04-13,Belgium,Portugal,2,2,2.32,2.72,1761,1542,World Cup
+2023-12-21,Brazil,France,3,0,3.32,0.61,2007,1816,Friendly
+2021-03-27,Brazil,Spain,2,4,2.57,3.15,1887,1693,Friendly
