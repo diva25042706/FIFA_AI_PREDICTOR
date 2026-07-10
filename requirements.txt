@@ -20,3 +20,5 @@ requests
 python-dotenv
 langchain
 langchain-openai
+streamlit
+plotly
